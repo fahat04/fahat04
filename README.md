@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahat04
 - 👀 I’m interested in astronomy research. In particular, AGNs and their feeding mechanism
-- 🌱 I’m currently learning pythn
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
